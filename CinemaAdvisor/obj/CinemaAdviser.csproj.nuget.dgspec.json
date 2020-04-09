@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdvisor.csproj": {}
+    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdviser.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdvisor.csproj": {
+    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdviser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdvisor.csproj",
-        "projectName": "CinemaAdvisor",
-        "projectPath": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdvisor.csproj",
+        "projectUniqueName": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdviser.csproj",
+        "projectName": "CinemaAdviser",
+        "projectPath": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\CinemaAdviser.csproj",
         "packagesPath": "C:\\Users\\MDL\\.nuget\\packages\\",
         "outputPath": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\CinemaAdvisor\\obj\\",
         "projectStyle": "PackageReference",

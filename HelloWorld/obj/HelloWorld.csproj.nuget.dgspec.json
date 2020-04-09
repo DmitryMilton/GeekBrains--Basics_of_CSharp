@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\basics\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\C#\\basics\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\basics\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\C#\\basics\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\Dmitry\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\basics\\HelloWorld\\obj\\",
+        "projectPath": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\MDL\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\GeekBrains\\C#\\Basics_of_C#\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dmitry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MDL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

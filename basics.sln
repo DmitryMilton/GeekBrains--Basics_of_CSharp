@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{E0787ACF-C73C-465E-ADC0-5E4913FB48F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{E0787ACF-C73C-465E-ADC0-5E4913FB48F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAdvisor", "CinemaAdvisor\CinemaAdvisor.csproj", "{288717DD-DF3A-4BE9-9629-0310927A474C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaAdvisor", "CinemaAdvisor\CinemaAdvisor.csproj", "{288717DD-DF3A-4BE9-9629-0310927A474C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
